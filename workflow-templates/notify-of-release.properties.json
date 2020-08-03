@@ -1,0 +1,5 @@
+{
+    "name": "Slack Release Notify Workflow",
+    "description": "Slack semantic-release notification workflow template.",
+    "iconName": "rocket-icon"
+}
